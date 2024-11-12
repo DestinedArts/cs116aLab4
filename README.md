@@ -8,4 +8,4 @@ Complete the Perspective Transformation Chain by Implementing M_persp() and test
 # Examples
 * SA Game Models: https://sa-game-remake.tumblr.com/post/697635182338048000/
   * Assets/Mesh: https://drive.proton.me/urls/VFG903EZWG#eXmnNUPduNoS
-  * Fox: Fox-sharedassets6.assets.split0-25.dae
+  * Fox: Fox-sharedassets6.assets-26.dae
